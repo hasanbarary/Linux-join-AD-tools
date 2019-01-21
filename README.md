@@ -1,2 +1,2 @@
 # Linux-graphicall-join-AD
-linux tools for join to active directory with graphic 
+linux graphic tools for join to active directory with graphic 
